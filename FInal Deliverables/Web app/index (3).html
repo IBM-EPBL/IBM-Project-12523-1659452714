@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Global Sales Data Analysis - IBM</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="h-screen overflow-hidden scroll-smooth bg-gray-100" background="https://png.pngtree.com/thumb_back/fh260/background/20211118/pngtree-technology-round-dashboard-image_908915.jpg">
+    <header
+      class="fixed top-0 p-4 bg-white border-b w-full shadow-md flex gap-8 justify-between items-center">
+      <h1 class="font-bold text-lg">Global Sales Data Analytics</h1>
+    </header>
+    <center>
+    <section id="report" class="h-screen p-5 pt-20">
+        <iframe
+        src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FGlobalSalesAnalytics&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model000001848baeeca4_00000000"
+        width="1000px"
+        height="600px"
+        frameborder="0"
+        gesture="media"
+        allow="encrypted-media"
+        allowfullscreen=""
+        class="border"
+      ></iframe>
+    </section>
+    </center>
+  </body>
+  <script>
+    const links = document.querySelectorAll("a.link");
+    links.forEach((el) =>
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        document
+          .getElementById(el.getAttribute("data-href"))
+          .scrollIntoView({ behavior: "smooth" });
+        const currActive = document.querySelector("a.link.active");
+        currActive?.classList.remove("active");
+        currActive?.classList.remove("bg-blue-600");
+        currActive?.classList.remove("text-white");
+        el.classList.add("active");
+        el.classList.add("bg-blue-600");
+        el.classList.add("text-white");
+      })
+    );
+  </script>
+</html>
