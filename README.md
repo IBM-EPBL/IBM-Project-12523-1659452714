@@ -28,7 +28,7 @@ Assignments
 
 PROJECT DESIGN & PLANNING
 
-Ideation phase
+IDEATION PHASE
 
 Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
 
@@ -37,7 +37,7 @@ Ideation is the process where you generate ideas and solutions through sessions 
  - Empathy Map
  - Brainstorm
  
- Design phase
+PROJECT DESIGN PHASE
  
 In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
 
@@ -53,7 +53,14 @@ Project design phase 02
  - Solution Requirements
  - Technology Stack
  
-Project planning phase
+PROJECT PLANNING PHASE
 
  - Milestone & user stories list
  - Sprint delivery plan
+
+PROJECT DEVELOPMENT PHASE
+
+- Sprint 1
+- Sprint 2
+- Sprint 3
+- Sprint 4
