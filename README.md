@@ -14,17 +14,17 @@ Batch NO : B4-4M6E
 
 Team Members
 
-Tarun V V S
-Suchita A V
-Vasanth V
-Varsha B
+- Tarun V V S
+- Suchita A V
+- Vasanth V
+- Varsha B
 
 Assignments
 
-Assignment_1
-Assignment_2
-Assignment_3
-Assignment_4
+- Assignment_1
+- Assignment_2
+- Assignment_3
+- Assignment_4
 
 PROJECT DESIGN & PLANNING
 
@@ -32,28 +32,28 @@ Ideation phase
 
 Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
 
- Literature Survey
- Problem Statement
- Empathy Map
- Brainstorm
+ - Literature Survey
+ - Problem Statement
+ - Empathy Map
+ - Brainstorm
+ 
  Design phase
  
 In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
 
 Project design phase 01
 
- Proposed Solution
- Problem-Solution Fit
- Solution Architecture
+- Proposed Solution
+- Problem-Solution Fit
+- Solution Architecture
  
 Project design phase 02
 
- Data Flow Diagrams and User Stories
- Solution Requirements
- Technology Stack
- Customer journey map
+ - Data Flow Diagrams and User Stories
+ - Solution Requirements
+ - Technology Stack
  
 Project planning phase
 
- Milestone & user stories list
- Sprint delivery plan
+ - Milestone & user stories list
+ - Sprint delivery plan
