@@ -15,7 +15,7 @@ Batch NO : B4-4M6E
 Team Members
 
 - Tarun V V S
-- Suchi A V 
+- Suchi A V Suchita 
 - Vasanth V
 - Varsha Balaji
 
