@@ -17,7 +17,7 @@ Team Members
 - Tarun V V S
 - Suchita 
 - Vasanth V
-- Varsha B
+- Varsha Balaji
 
 Assignments
 
