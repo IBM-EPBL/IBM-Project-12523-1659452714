@@ -19,6 +19,8 @@ Team Members
 - Vasanth V
 - Varsha Balaji
 
+>>>>>>> 8715829 (conflict resolve demo B)
+
 Assignments
 
 - Assignment_1
